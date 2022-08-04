@@ -1,0 +1,38 @@
+.header {
+    text-decoration: underline;
+    text-decoration-color: orange;
+  }
+  
+  .ui.text.menu {
+    margin: 2em 0 4em 26em;
+  }
+  
+  .ui.items>.item {
+    margin-bottom: 3em;
+  }
+  
+  .ui.text.menu .item {
+    color: orange !important;
+    font-size: 18px;
+  }
+  
+  .ui.items>.item>.image+.content {
+    text-align: left;
+  }
+  
+  .cardHeader {
+    border-bottom: 1px solid;
+    padding-bottom: 5px;
+  }
+  
+  .itemPrice {
+    display: inline-block;
+    float: right;
+    color: orange
+  }
+  
+  .itemName {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
